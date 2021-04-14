@@ -12,3 +12,8 @@ The program allows two users to play connect 4 against each other from two diffe
 [referenced material 2](https://gyawaliamit.medium.com/multi-client-chat-server-using-sockets-and-threads-in-java-2d0b64cad4a7)
 
 [referenced material 3](https://stackoverflow.com/questions/32770321/connect-4-check-for-a-win-algorithm)
+
+## Screenshots 
+![sc1](https://user-images.githubusercontent.com/55216478/114636622-701de680-9c95-11eb-93a9-2b7323cc2dce.PNG)
+![sc2](https://user-images.githubusercontent.com/55216478/114636630-72804080-9c95-11eb-809f-4141ead38628.PNG)
+
