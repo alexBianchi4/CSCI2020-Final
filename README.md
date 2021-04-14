@@ -1,6 +1,10 @@
 # CSCI2020 Final Project - Connect 4
 
 ## Project Information
+By: Alex Bianchi, Soman Sheikh, Ahmad Mujeeb.
+
+Written in Java 11 and JavaFX11
+
 The program allows two users to play connect 4 against each other from two different clients. It follows the simple rules of connect 4. The logo and graphics were created by us in Gimp and Aseprite. The program also resizes the graphics to fit the screen dimensions the user chooses.  
 
 ## How to Run
